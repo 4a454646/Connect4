@@ -207,4 +207,4 @@ async def abort(ctx):
     gameInstance.grid = [[0 for i in range(16)] for j in range(10)] 
     await ctx.send("The game has been stopped.")
 
-bot.run("NzA5ODQ5NTc3MDQ1MzYwNzEx.Xrr7FA.p0q8H2PJQ8rqPudir_ggy5K2Cnw")
+bot.run("bot_token")
